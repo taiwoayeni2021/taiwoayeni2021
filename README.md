@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Taiwo Ayeni
 
-<!--
-**taiwoayeni2021/taiwoayeni2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst transitioning from 14 years in hospitality accounting to hospitality and education analytics. Skilled in SQL, Excel, Power BI, and learning Python.
 
-Here are some ideas to get you started:
+## Skills
+- Data Cleaning • Dashboarding • Reporting
+- Tools: SQL, Excel, Power BI, Python (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Launch data career in hospitality and education
+- Build real-world analytics portfolio
+
+## Connect
+[LinkedIn](https://linkedin.com/in/taiwo-ayeni-22ba07240/) | [Email](taiwoayeni2021@gmail.com)
