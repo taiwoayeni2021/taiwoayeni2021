@@ -1,6 +1,6 @@
 # Hi, I'm Taiwo Ayeni
 
-Data Analyst transitioning from 14 years in hospitality accounting to hospitality and education analytics. Skilled in SQL, Excel, Power BI, and learning Python.
+Data Analyst transitioning from 14 years in hospitality accounting to hospitality analytics. Skilled in SQL, Excel, Power BI, and learning Python.
 
 ## Skills
 - Data Cleaning • Dashboarding • Reporting
