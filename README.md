@@ -7,7 +7,7 @@ Data Analyst transitioning from 14 years in hospitality accounting to hospitalit
 - Tools: SQL, Excel, Power BI, Python (beginner)
 
 ## Goals
-- Launch data career in hospitality and education
+- Launch data career in hospitality
 - Build real-world analytics portfolio
 
 ## Connect
